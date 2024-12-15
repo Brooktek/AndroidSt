@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">project1</string>
     <string name="find_the_best_coffee_for_you">Find the best coffee\n for you</string>
+    <string name="coffe_shop">Coffe Shop</string>
 </resources>

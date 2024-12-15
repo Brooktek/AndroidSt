@@ -16,7 +16,7 @@
             android:name=".BaseActivity"
             android:exported="false" />
         <activity
-            android:name=".BaseActivity2"
+            android:name=".BaseActivity"
             android:exported="false" />
         <activity
             android:name=".IntroActivity"
